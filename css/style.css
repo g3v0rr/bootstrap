@@ -1,0 +1,161 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+/* .mb-3  button {
+    border-radius: 20%;
+} */
+header nav {
+    display: flex !important;
+}
+nav ul li a {
+    color: blue !important;
+    text-decoration: none !important;
+}
+header  {
+    height: 1200px;
+    background-image:url(../img/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec1 {
+    height:1200px;
+    background-image: url(../img/https___blogs-images.forbes.com_startswithabang_files_2020_02_Laniakea-2.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.maindiv {
+    display: flex;
+}
+.bg1 {
+    background-image: url(../img/3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.bg2 {
+    background-image: url(../img/3010033.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.sec2 {
+    height:1200px;
+    background-image: url(../img/5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.maindiv1 {
+    display: flex;
+}
+.bg3 {
+    background-image: url(../img/210614-CAEDSWEB-Images-MultiDomain_Space-Overview-reduced.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.bg4 {
+    background-image: url(../img/stsci_j_p2223a.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 500px;
+    border-radius: 50%;
+}
+.sec3 {
+    height:1200px;
+    background-image: url(../img/6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sec4 {
+    height:1200px;
+    background-image: url(../img/unname.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.maindiv2 {
+    display: flex;
+}
+.bg5 {
+    background-image: url(../img/7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.bg6 {
+    background-image: url(../img/8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.maindiv3 {
+    display: flex;
+}
+.bg7 {
+    background-image: url(../img/unnamed.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.bg8 {
+    background-image: url(../img/images.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.bg9 {
+    background-image: url(../img/9.pg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.sec5 {
+    height:1400px ;
+}
+.sec6 {
+    height:1200px ;
+}
+.maindiv5 {
+    display: flex;
+}
+.maindiv5-div1 {
+    background-image: url(../img/space_astronaut_iStock-1353874144.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 500px;
+    padding: 50px;
+}
+.maindiv5-div2 {
+    background-image: url(../img/space-1-640x514.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 500px;
+}
+
+
+
+
+
+
+
+
+
